@@ -15,7 +15,7 @@ Before running the script, ensure you have the following:
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/yourusername/bulk-email-sender.git
+   git clone https://github.com/yourusername/bulkemailsender.git
    cd bulk-email-sender
 
 
