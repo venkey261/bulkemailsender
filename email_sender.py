@@ -22,7 +22,7 @@ def send_email(to_email, to_name, attachment_path):
     
     I hope this email finds you well.
     
-    My name is Naga Venkatesh Manyam, and I am a software engineer with extensive experience in React, JavaScript, Node.js, and other JavaScript-based technologies. I am currently seeking a full-time position where I can leverage my skills to contribute to a forward-thinking and dynamic team.
+    My name is xxxx, and I am a software engineer with extensive experience in React, JavaScript, Node.js, and other JavaScript-based technologies. I am currently seeking a full-time position where I can leverage my skills to contribute to a forward-thinking and dynamic team.
     
     I am particularly interested in opportunities within your esteemed organization. With a strong background in developing and deploying robust web applications, I am confident that my expertise aligns well with the needs of your team. My experience includes:
     
@@ -38,11 +38,8 @@ def send_email(to_email, to_name, attachment_path):
     
     Warm regards,
     
-    Naga Venkatesh Manyam
-    Phone: +971 568142039
-    Email: manyam.venkatesh@gmail.com
-    LinkedIn: https://www.linkedin.com/in/nagavenkatesh-manyam
-    Website: https://nvenkat.dev/
+   Yourname
+   profile
     """
     
     # Set up the email content
